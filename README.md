@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ro-wdy
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html,python,css andC programming language
+- 🌱 I’m currently learning html,python,css,java andC programming language
 
 - 
 
