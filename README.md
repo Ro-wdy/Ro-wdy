@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mulerarhodah@gmail.com**
 
-- ⚡ Fun fact **I enjoy both visual art (drawing) and culinary art (cooking), plus you like learning through documentaries.**
+- ⚡ Fun fact **I enjoy both visual art (drawing) and culinary art (cooking), plus I like learning through documentaries.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
