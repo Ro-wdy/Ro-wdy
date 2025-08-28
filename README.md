@@ -6,11 +6,11 @@
 </p>
 
 ---
-
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ro-wdy&theme=onedark&column=6&margin-w=15&margin-h=15" alt="ro-wdy trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=onedark&column=6&margin-w=15&margin-h=15" alt="ro-wdy trophies" />
 </p>
+
 
 ---
 
