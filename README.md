@@ -8,7 +8,7 @@
 ---
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
- https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=flat
+![trophy](https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=flat)
 </p>
 
 
