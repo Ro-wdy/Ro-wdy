@@ -9,10 +9,9 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <a href="https://github.com/ro-wdy/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies" />
 </p>
+
 
 
 ---
