@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ro-wdy&label=Profile%20views&color=0e75b6&style=flat" alt="ro-wdy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ro-wdy" alt="ro-wdy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ro-wdy)](https://github.com/Ro-wdy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ro-wdy&theme=onedark)](https://github.com/Ro-wdy/github-profile-trophy)
 
 - 🔭 Learning how to navigate the Coding world
 
