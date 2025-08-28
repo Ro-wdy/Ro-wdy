@@ -19,12 +19,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Dashboard</h2>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<h2 align="center">🚀 My GitHub Dashboard</h2>
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -38,6 +33,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ro-wdy&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" height="150"/>
 </p>
+
 
 ---
 
