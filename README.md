@@ -10,10 +10,10 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ro-wdy&row=1&column=6" alt="trophy" />
-  </a> 
-
+    <img src="https://github-profile-trophy.vercel.app/?username=ro-wdy&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&v=1" alt="GitHub Trophies" />
+  </a>
 </p>
+
 
 ---
 
