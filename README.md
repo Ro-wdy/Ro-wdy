@@ -8,12 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Learning how to navigate the **Coding world**  
-- 🌱 Currently learning **Linux, HTML, CSS, and JavaScript**  
+- 🔭 Navigate the **Coding world**  
+- 🌱 Currently learning **JavaScript, React, Python and Django,,Cloud**  
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow  
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
-- 💬 Ask me about **Web Development**  
+- 💬 Ask me about **Web Development| Cloud**  
 - 📫 Reach me at **mulerarhodah@gmail.com**  
 - ⚡ Fun fact: I enjoy **drawing, cooking, and learning through documentaries** 🎨🍳📺  
 
