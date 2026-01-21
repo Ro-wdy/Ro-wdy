@@ -13,9 +13,9 @@
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow  
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
-- 💬 Ask me about **Web Development| Cloud**  
+- 💬 Ask me about **Web Development | Cloud**  
 - 📫 Reach me at **mulerarhodah@gmail.com**  
-- ⚡ Fun fact: I enjoy **drawing and cooking** 🎨🍳📺  
+- ⚡ Fun fact: I enjoy **many things which I can't remember at the moment**  
 
 ---
 
