@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhodah Mulera</h1>
+<h1 align="center">Bonjour 👋, I'm Rhodah Mulera</h1>
 <h3 align="center">A passionate developer from Kenya 🌍</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow  
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
-- 💬 Ask me about **Web Development | Cloud**  
+- 💬 Ask me about **Web Development | Graphic Design | Cloud**  
 - 📫 Reach me at **mulerarhodah@gmail.com**  
 - ⚡ Fun fact: I enjoy **many things which I can't remember at the moment**  
 
