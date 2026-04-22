@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 Navigating the **Coding world**  
-- 🌱 Currently learning **Bootsrap, JavaScript, React, Python and Django,,Cloud**  
+- 🌱 Currently learning **Bootsrap, JavaScript, React, Python and Django,Cloud, AI**  
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow  
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
