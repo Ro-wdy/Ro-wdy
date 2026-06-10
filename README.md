@@ -13,7 +13,7 @@
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow  
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
-- 💬 Ask me about **Web Development | Graphic Design | Cloud**  
+- 💬 Ask me about **Web Development | Graphic Design | Cloud Computing**  
 - 📫 Reach me at **mulerarhodah@gmail.com**
 - I also write article at https://dev.to/mulera and https://medium.com/@mulerarhodah
 - ⚡ Fun fact: I enjoy **many things which I can't remember at the moment**  
