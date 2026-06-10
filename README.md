@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, I'm Rhodah Mulera</h1>
-<h3 align="center">A passionate developer from Kenya 🌍</h3>
+<h3 align="center">A passionate developer from Kenya </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ro-wdy&label=Profile%20views&color=0e75b6&style=flat" alt="ro-wdy profile views" />
