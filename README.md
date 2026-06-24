@@ -11,7 +11,8 @@
 - 🔭 Navigating the **Coding world**  
 - 🌱 Currently learning **Bootsrap, JavaScript, React, Python and Django,Cloud, AI**  
 - 👯 Looking to collaborate on **exciting tech projects**  
-- 🤝 Always ready to explore and grow  
+- 🤝 Always ready to explore and grow
+- I participate also in Hackathons alot
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
 - 💬 Ask me about **Web Development | Graphic Design | Cloud Computing**  
 - 📫 Reach me at **mulerarhodah@gmail.com**
