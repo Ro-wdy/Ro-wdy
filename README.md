@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 Navigating the **Coding world**  
-- 🌱 Currently learning **Bootsrap, JavaScript, React, Python and Django,Cloud, AI**  
+- 🌱 Currently learning **Bootstrap, JavaScript, React, Python and Django,Cloud(GCP and AWS, AI**  
 - 👯 Looking to collaborate on **exciting tech projects**  
 - 🤝 Always ready to explore and grow
 - I participate also in Hackathons alot
