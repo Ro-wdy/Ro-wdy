@@ -9,8 +9,9 @@
 
 ### 🚀 About Me
 - 🔭 Navigating the **Coding world**  
-- 🌱 Currently learning **Bootstrap, JavaScript, React, Python and Django,Cloud(GCP and AWS, AI**  
-- 👯 Looking to collaborate on **exciting tech projects**  
+- 🌱 Currently learning **JavaScript, React, Python and Django,Cloud(GCP and AWS, AI**  
+- 👯 Looking to collaborate on **exciting tech projects**
+- Got an attachment that I need to work with PHP and Laravel(I obviously need to learn)
 - 🤝 Always ready to explore and grow
 - I participate also in Hackathons alot
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
