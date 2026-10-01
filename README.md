@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 - 🔭 Navigating the **Coding world**  
-- 🌱 Currently learning **JavaScript, React, Python and Django,Cloud(GCP and AWS, AI**  
+- 🌱 Currently learning **JavaScript, React, Python and Django,Cloud(GCP and AWS) AI**  
 - 👯 Looking to collaborate on **exciting tech projects**
 - 🤝 Always ready to explore and grow
 - I participate also in Hackathons alot
 - 👨‍💻 Check out my work: [**rhodahmulera.vercel.app**](https://rhodahmulera.vercel.app/)  
 - 💬 Ask me about **Web Development | UI/UX Design | Cloud Computing**
-- I have started content creation, check ou my youtube and You can subscribe here https://www.youtube.com/@mulera_RM
+- I have started content creation, check out my youtube and You can subscribe here https://www.youtube.com/@mulera_RM
 - 📫 Reach me at **mulerarhodah@gmail.com**
 - I also write article at https://dev.to/mulera and https://medium.com/@mulerarhodah
 - ⚡ Fun fact: I enjoy **many things which I can't remember at the moment**  
